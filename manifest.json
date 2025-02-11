@@ -1,0 +1,21 @@
+
+  {
+    "manifest_version": 3,
+    "name": "Spotify Lyrics Finder (Simple)",
+    "version": "1.0",
+    "description": "Get lyrics for the song currently playing on Spotify using Lyrics.ovh.",
+    "permissions": ["activeTab", "scripting"],
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": {
+          "16": "musical-note.png",
+          "48": "play.png",
+          "128": "sound.png"
+        }
+      },
+      "icons": {
+        "16": "musical-note.png",
+        "48": "play.png",
+        "128": "sound.png"
+      }
+    }
