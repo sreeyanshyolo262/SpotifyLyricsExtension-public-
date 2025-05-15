@@ -2,6 +2,8 @@
 
 This Chrome extension fetches lyrics for the song currently playing on Spotify using the [Lyrics.ovh API](https://lyrics.ovh).
 
+Demo:https://youtu.be/5yWBp-M6z7s
+
 ## Features
 - Automatically detects the song title and artist from Spotify's web player.
 - Fetches and displays lyrics for the currently playing song.
